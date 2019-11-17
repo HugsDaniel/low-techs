@@ -56,13 +56,6 @@ We believe it will enable us to put the focus on the technologies rather than th
 So, as a first step, we will be sharing the report template on these forums, hoping that members of the existing community fill them out, at least partially with data they already have. This first step will also help us to estimate the amount of data we can gather.
 
 
-## TECHNOLOGY
-
-The technology that we will use to run our analysis is still to be chosen. The obvious choice would be Python. However, due to its very nature, Python is a heavyweight, memory and energy consuming language that serves its purpose powerfully but doesn't really suit our philosophy on low-techs.
-
-Right now we are looking into Rust, a very lightweight system language that could serve our purpose. We are not sure yet how the available librairies for data science (if any) can help us achieve our goal, but it seems promising.
-
-
 ## TRANSPARENCY
 
 Every piece of data about the low-tech itself and/or information about the maker that we collect will be treated anonymously and will never be used for any commercial purpose. We will be as transparent as humanly possible on every step of the process, from the project scoping to the publishing of the results.
@@ -88,8 +81,7 @@ Step 1 is choosing a first low-tech to study. We are looking over the internet t
 When we have the system, we can define a report template to share on forums.
 
 ### Step 2
-Step 2 is choosing a technology to actually analyze the data. See the **TECHNOLOGY** section above.
-Once this is chosen, and once we have the basis of our report template, we can start building the actual algorithm.
+Step 2 is using the report template to develop the actual analysis algorithm. A first phase of tests will occur with made-up data to determine the algorithm's abilities.
 
 
 ## CONTRIBUTING
